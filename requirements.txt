@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+alerce
+git+git://github.com/KeplerGO/lightkurve@master#egg=lightkurve
+tess-point
+git+git://github.com/soichiro-hattori/tess_cpm@master#egg=tess_cpm
+astroquery
+astropy==4.1rc1
+request
