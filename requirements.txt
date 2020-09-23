@@ -7,4 +7,4 @@ tess-point
 git+git://github.com/soichiro-hattori/tess_cpm@master#egg=tess_cpm
 astroquery
 astropy==4.1rc1
-request>=2.20.0
+requests
